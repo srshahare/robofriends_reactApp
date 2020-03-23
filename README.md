@@ -8,3 +8,8 @@ To make this app working add following lines
 4. go to the directory of reactApp.
 5. type "npm run start" in cmd.
 6. Open browser......here we go.
+
+You can search desired roboto into search box
+![Image description](https://github.com/Shashank358/robofriends_reactApp/blob/master/Screenshot%20(5).png)
+
+![Image description](https://github.com/Shashank358/robofriends_reactApp/blob/master/Screenshot%20(6).png)
